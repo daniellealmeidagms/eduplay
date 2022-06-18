@@ -1,7 +1,10 @@
 # EduPlay
 
 _Team 18 Eduplay Portal multiplatform version for Campus Party Goiás Second Edition 2022 - Hackathon RNP_
+
 _Versão multiplataforma do Portal Eduplay criado pelo Time 18 para a Campus Party Goiás Segunda Edição 2022 - Hackathon RNP_
+
+***
 
 Neste projeto fomos desafiados a melhorar a acessibilidade do portal educativo online Eduplay, da RNP. 
 
